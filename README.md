@@ -114,7 +114,7 @@ Concurrency: Coroutines
 
 🙏 Acknowledgements
 
-Special thanks to the open-source tools and libraries used:
+ The open-source tools and libraries used:
 
 Android Studio
 
